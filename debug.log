@@ -1,0 +1,212 @@
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x315000 of 560 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:ERROR:process_snapshot_win.cc(342)] ReadMemory PEB
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0xd70000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76ff0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76da0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74390000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c70000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73ef0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76d40000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d10000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d20000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745e0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73fb0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74c10000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6fec0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\50.0.2661.94\chrome_elf.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73820000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x767c0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x709f0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73da0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74490000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75200000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70a20000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76650000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c40000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c60000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70ba0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x741d0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76970000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76750000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74b30000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76ac0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74cf0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75230000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76b10000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73890000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x738b0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72b70000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f90000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6cd50000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74470000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x700a0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x769c0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76660000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74000000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72de0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d40000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5a900000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f80000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76b20000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74bc0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6d410000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x52c10000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\50.0.2661.94\chrome_child.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5e3a0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x770fab80 of 5888 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0xd70000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76ff0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76da0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74390000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c70000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73ef0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76d40000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d10000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d20000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745e0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73fb0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74c10000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6fec0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\50.0.2661.94\chrome_elf.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73820000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x767c0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x709f0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73da0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74490000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75200000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70a20000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76650000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c40000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73c60000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70ba0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x741d0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76970000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76750000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74b30000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76ac0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74cf0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75230000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76b10000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73890000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x738b0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72b70000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f90000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6cd50000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74470000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x700a0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x769c0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76660000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74000000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72de0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d40000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5a900000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f80000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76b20000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74bc0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6d410000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x52c10000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\50.0.2661.94\chrome_child.dll
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5e3a0000 of 64 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0516/150340:ERROR:process_reader_win.cc(98)] process 17492 not found
+[0516/150340:ERROR:process_reader_win.cc(232)] ReadMemory at 0xe1d1b4 of 12 bytes failed: Endast delar av en ReadProcessMemory- eller WriteProcessMemory-begäran har slutförts. (0x12B)
+[0516/150340:WARNING:process_snapshot_win.cc(96)] ReadMemory ExceptionInformation failed
+[0516/150340:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0516/150340:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
