@@ -106,7 +106,7 @@ public class Test_Home {
 	public void proPrice(){
 		PO_Startpage start = new PO_Startpage(driver);
 		start.GoToPage();
-		start.clickOnMagicMouse(); //Vart ska testet vara? Homepage? Startsidan alltså? eller?
+		start.clickOnMagicMouse();
 		start.proPrice();
 	}
 	@Test 
@@ -130,7 +130,7 @@ public class Test_Home {
 	public void searchFunction(){
 		PO_Startpage start = new PO_Startpage(driver);
 		start.GoToPage();
-		start.searchFunction("Imac");
+		start.searchFunction("Iphone");
 	}
 	//------------- Uppgift 5 -------------
 	@Test

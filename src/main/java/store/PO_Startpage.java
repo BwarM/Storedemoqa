@@ -10,6 +10,7 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -177,7 +178,6 @@ public class PO_Startpage {
 		try {
 			Thread.sleep(2000);
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
 			System.out.println("Failed to wait for menu");
 		}
 		driver.findElement(by).click();
@@ -187,13 +187,9 @@ public class PO_Startpage {
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h1[.='"+h1ToWaitFor+"']")));
 	}
 	
-	//fatar ej.. ska vi inte göra en class PO_för denna med?
-	//PO = Varje sida.
-	//Egentligen borde du ha en för varje sida som.. 
-	
+
 	//uppgift3
 	public void DropDownList(){
-		//driver.findElement(By.xpath("//*[.='iMacs']")).click();
 		By accessoriesBy = By.xpath("//*[@id='menu-item-34']/a");
 		By iMacsBy = By.xpath("//*[@id='menu-item-35']/a");
 		By iPadsBy = By.xpath("//*[@id='menu-item-36']/a");
@@ -229,7 +225,7 @@ public class PO_Startpage {
 	
 	//uppgift4
 	public void searchFunction(String searchValue){
-		driver.findElement(By.cssSelector("input.search")).sendKeys(searchValue);  
+		driver.findElement(By.cssSelector("input.search")).sendKeys(searchValue, Keys.ENTER);  
 	}	
 	
 	//Uppgift 5
@@ -257,7 +253,7 @@ public class PO_Startpage {
 		driver.quit();
 	}
 	public void waitForElement(By by){
-		WebDriverWait wait = new WebDriverWait(driver,30); //Waits up to 30 seconds. 
+		WebDriverWait wait = new WebDriverWait(driver,30);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(by));
 		wait.pollingEvery(200, TimeUnit.MILLISECONDS);
 	}
