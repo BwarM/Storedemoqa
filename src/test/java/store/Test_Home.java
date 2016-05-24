@@ -130,7 +130,11 @@ public class Test_Home {
 	public void searchFunction(){
 		PO_Startpage start = new PO_Startpage(driver);
 		start.GoToPage();
-		start.searchFunction("Iphone");
+		String searchFor = "Iphone";
+		start.searchFunction(searchFor); 
+		start.verifyUrlContains(searchFor);
+		start.verifyTitleCotains(searchFor);
+		
 	}
 	//------------- Uppgift 5 -------------
 	@Test

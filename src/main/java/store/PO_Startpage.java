@@ -227,6 +227,12 @@ public class PO_Startpage {
 	public void searchFunction(String searchValue){
 		driver.findElement(By.cssSelector("input.search")).sendKeys(searchValue, Keys.ENTER);  
 	}	
+	public void verifyUrlContains(String searchFor) {
+		Assert.assertTrue("The URL should contain "+searchFor,driver.getCurrentUrl().contains(searchFor));
+	}
+	public void verifyTitleCotains(String searchFor){
+		Assert.assertTrue("The URL should contain "+searchFor,driver.getTitle().contains(searchFor));
+	}
 	
 	//Uppgift 5
 	 public void verifyPopupCheckoutText(String product){
@@ -244,8 +250,8 @@ public class PO_Startpage {
 		 driver.findElement(By.cssSelector(".continue_shopping")).click();
 	 }
 	 public void verifyContinueShopping(){
-		 List<WebElement> awesome = driver.findElements(By.cssSelector(".continue_shopping"));
-		 System.out.println(awesome.size());
+		 Boolean isButtonDisplayed =  driver.findElement(By.cssSelector(".continue_shopping")).isDisplayed();
+		 Assert.assertFalse("The button should not be displayed", isButtonDisplayed);
 	 }
 	 
 	//Close Driver
@@ -257,4 +263,6 @@ public class PO_Startpage {
 		wait.until(ExpectedConditions.visibilityOfElementLocated(by));
 		wait.pollingEvery(200, TimeUnit.MILLISECONDS);
 	}
+
+
 }
